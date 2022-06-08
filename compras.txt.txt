@@ -2,4 +2,3 @@ perfume
 desodorante
 shampoo
 naranja 
-leche 
